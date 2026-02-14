@@ -29,16 +29,6 @@ Tasarım. Fotoğraf. İnternet.
 
 ---
 
-### Projelerim
-
-| Proje | Açıklama | |
-|:------|:---------|:-:|
-| [**EXIF Cleaner**](https://huseyinacikgoz.com.tr/exif-cleaner/) | Fotoğraflarınızdaki EXIF, GPS ve cihaz bilgilerini yerel olarak temizleyin. %100 tarayıcı tabanlı. | [Kaynak Kod](https://github.com/huseyinacikgoz/exif-cleaner) |
-| [**NotEt**](https://huseyinacikgoz.com.tr/notet/) | Notlarınızı tarayıcınızda, şifreli ve güvenli bir şekilde saklayın. Minimalist ve sunucusuz. | [Kaynak Kod](https://github.com/huseyinacikgoz/notet) |
-| [**Hesapp**](https://huseyinacikgoz.com.tr/hesapp/) | Hesap makinesi görünümlü gizli not saklama alanı. AES-256 şifreleme. | [Kaynak Kod](https://github.com/huseyinacikgoz/hesapp) |
-
----
-
 ### Teknolojiler
 
 <p>
@@ -60,14 +50,14 @@ Tasarım. Fotoğraf. İnternet.
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=huseyinacikgoz&show_icons=true&hide_border=true&bg_color=00000000&title_color=f4f4f5&icon_color=a1a1aa&text_color=a1a1aa&locale=tr" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=huseyinacikgoz&show_icons=true&hide_border=true&bg_color=00000000&title_color=18181b&icon_color=52525b&text_color=52525b&locale=tr" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huseyinacikgoz&show_icons=true&hide_border=true&bg_color=00000000&title_color=f4f4f5&icon_color=a1a1aa&text_color=a1a1aa&locale=tr" alt="GitHub Stats" height="160" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=huseyinacikgoz&show_icons=true&hide_border=true&bg_color=00000000&title_color=18181b&icon_color=18181b&text_color=18181b&locale=tr" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huseyinacikgoz&show_icons=true&hide_border=true&bg_color=00000000&title_color=18181b&icon_color=18181b&text_color=18181b&locale=tr" alt="GitHub Stats" height="160" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huseyinacikgoz&layout=compact&hide_border=true&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa&locale=tr" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huseyinacikgoz&layout=compact&hide_border=true&bg_color=00000000&title_color=18181b&text_color=52525b&locale=tr" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huseyinacikgoz&layout=compact&hide_border=true&bg_color=00000000&title_color=f4f4f5&text_color=a1a1aa&locale=tr" alt="Top Languages" height="160" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huseyinacikgoz&layout=compact&hide_border=true&bg_color=00000000&title_color=18181b&text_color=18181b&locale=tr" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huseyinacikgoz&layout=compact&hide_border=true&bg_color=00000000&title_color=18181b&text_color=18181b&locale=tr" alt="Top Languages" height="160" />
   </picture>
 </div>
 
@@ -76,8 +66,8 @@ Tasarım. Fotoğraf. İnternet.
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=huseyinacikgoz&hide_border=true&background=00000000&ring=f4f4f5&fire=f4f4f5&currStreakLabel=f4f4f5&sideLabels=f4f4f5&currStreakNum=a1a1aa&sideNums=a1a1aa&dates=52525b&locale=tr" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=huseyinacikgoz&hide_border=true&background=00000000&ring=18181b&fire=18181b&currStreakLabel=18181b&sideLabels=18181b&currStreakNum=52525b&sideNums=52525b&dates=a1a1aa&locale=tr" />
-    <img src="https://streak-stats.demolab.com?user=huseyinacikgoz&hide_border=true&background=00000000&ring=f4f4f5&fire=f4f4f5&currStreakLabel=f4f4f5&sideLabels=f4f4f5&currStreakNum=a1a1aa&sideNums=a1a1aa&dates=52525b&locale=tr" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=huseyinacikgoz&hide_border=true&background=00000000&ring=18181b&fire=18181b&currStreakLabel=18181b&sideLabels=18181b&currStreakNum=18181b&sideNums=18181b&dates=18181b&locale=tr" />
+    <img src="https://streak-stats.demolab.com?user=huseyinacikgoz&hide_border=true&background=00000000&ring=18181b&fire=18181b&currStreakLabel=18181b&sideLabels=18181b&currStreakNum=18181b&sideNums=18181b&dates=18181b&locale=tr" alt="GitHub Streak" />
   </picture>
 </div>
 
